@@ -1,6 +1,6 @@
 # Lab Work 1.2
 
-print("----- Lab Work 1.2 -----\n\n")
+print("\n----- Lab Work 1.2 -----\n\n")
 
 while True:
     print("\n===== Menu =====\n")
