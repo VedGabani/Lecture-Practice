@@ -19,20 +19,20 @@ while True:
     
                 b = input("Enter Your Choice -_- ")
     
-            match b:
+                match b:
     
-                case '1':
-                    print("\nHere is your Thin Crust Pizza")
-    
-                case '2':
-                    print("\nHere is your Chess Brust")
-    
-                case '3':
-                    print("\nHere is your Dough Pizza")
-    
-                case '4':
-                    print("\nExiting Pizza Menu.....")
-                    break
+                    case '1':
+                        print("\nHere is your Thin Crust Pizza")
+        
+                    case '2':
+                        print("\nHere is your Chess Brust")
+        
+                    case '3':
+                        print("\nHere is your Dough Pizza")
+        
+                    case '4':
+                        print("\nExiting Pizza Menu.....")
+                        break
     
                 case_:
                     print("\nEnter valid Choice")
